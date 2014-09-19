@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KnoaAccessibility</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_service_description">accessibility_service_description</string>
+	<string name="accessibility_service_label">Knoa Accessibility</string>
+	<string name="task_complete">task_complete</string>
+	<string name="task_not_complete">task_not_complete</string>
+	<string name="task_complete_template">task_complete_template</string>
+</resources>
